@@ -1,13 +1,19 @@
 ---
 layout:    post
-title:    正式发一篇博客
-subtitle：    一点点随笔
-date：    2018-12-26
-author： maocheng Shi
-catalog： true
-tags：
+title:    My First Post
+subtitle:    Hello World, Hello blog
+date:    2018-12-25
+authot:    Maocheng
+header-image: img/post-bg-2015.jpg
+catalog:    true
+tags:
     -生活
 ---
+
+
+
+## Hey
+
 
 ##今天从新开始
 
