@@ -1,9 +1,9 @@
 # Site settings
 title: MC's Blog
-SEOTitle:  茂肥牛的博客 | Moahcneg‘s Blog
+SEOTitle:  茂肥牛的博客 | Moahcheng‘s Blog
 header-img: img/post-bg-desk.jpg
 email: fatoxabc@gmail.com
-description: "My study record."
+description: "My life record."
 keyword: "Maocheng, Maocheng's blog, 茂成的博客, shimaocheng, Maocheng Shi, 石茂成, Computer Engineering, student, 石茂成的博客,黄汉的爸爸，黄汉的父亲"
 url: "http://Feiniu6ABC.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
